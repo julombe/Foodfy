@@ -69,7 +69,8 @@ header .logo img {
     position: relative;*/
 
 
-    background-color: #FBDFDB; 
+    background-color: #FBDFDB;
+    /*background-color: rgba(211, 211, 211, 0.774);*/
     display: grid;
     grid-template-columns: 1fr 1fr;
     border-radius: 30px;
@@ -167,7 +168,7 @@ header .logo img {
 
 
 footer{
-    background-color:  #EEEEEE;
+    background-color: #EEEEEE;
     padding: 8px;
     bottom: 0; 
     color: gray;
