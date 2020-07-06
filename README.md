@@ -27,6 +27,8 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<img src="https://ik.imagekit.io/jlzh3neixu/print_foodfy_qKFcOGhWYEm.png">
+
 ## :file_cabinet: Ferramentas Utilizadas
 
 - [HTML](https://developer.mozilla.org/pt-PT/docs/Web/HTML)
