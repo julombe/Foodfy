@@ -31,6 +31,7 @@
 
 - [HTML](https://developer.mozilla.org/pt-PT/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-PT/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
 
 ## :rocket: Desafios
 
